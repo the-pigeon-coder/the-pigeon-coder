@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm currently working on a Coding Challenge<br>I'm looking for an Apprenticeship in Germany<br>I'm currently learning JS and Lua<br>Ask me about anything you like
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/professor_pigeon_) 
 
